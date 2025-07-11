@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Josue Lizarazu
+# ¡Hola! 👋 Soy Josue Joel Lizarazu Fernández
 
 Estudiante apasionado de **Ingeniería de Sistemas** de 19 años. Disfruto aprendiendo cada día y creando soluciones para problemas reales. 
 Mis áreas de interés principal son:
