@@ -16,6 +16,7 @@ I'm specially interested in web development, computer vision, and creating from 
 ## Tech Stack
 - **Languages**: PHP, Java, JavaScript, Python.
 - **Frameworks & Tools** : Laravel, MySQL, YOLOv8
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bacarrdi&layout=compact&theme=radical)
 
 ## Projects 
