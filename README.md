@@ -1,16 +1,15 @@
-# ¡Hola! 👋 Soy Josué Lizarazu
+# ¡Hola! 👋 Soy Josue Lizarazu
 
 Estudiante apasionado de **Ingeniería de Sistemas** de 19 años. Disfruto aprendiendo cada día y creando soluciones para problemas reales. 
 Mis áreas de interés principal son:
 - 🌐 Desarrollo Web
 - 👁️ Visión por Computadora
-- 👗 Creación de una marca de ropa (¡mi sueño!)
+- 👗 Creación de una marca de ropa
 
 ## Sobre mí 🧑‍💻
 - 📍 Nacido en Cochabamba, Bolivia
 - � Estudiante de Ingeniería de Sistemas en la UMSS
 - 📚 Aprendiendo: DevOps, Linux, Blockchain, Arquitectura de Software
-- 🤝 Me encanta colaborar en proyectos en equipo
 - 🗣️ Idiomas: Español (nativo) e Inglés
 
 ## Estadísticas de GitHub 📊
