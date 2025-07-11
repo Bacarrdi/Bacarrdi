@@ -14,6 +14,7 @@ Mis áreas de interés principal son:
 
 ## Estadísticas de GitHub 📊
 [![Racha GitHub](https://github-readme-streak-stats.herokuapp.com?user=Bacarrdi&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+
 [![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Bacarrdi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologías 🛠️
