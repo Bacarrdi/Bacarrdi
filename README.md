@@ -36,4 +36,5 @@ Mis áreas de interés principal son:
 
 ## Contacto 📩
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josué_Lizarazu-0077B5?logo=linkedin)](https://www.linkedin.com/in/josue-lizfer-lizarazu-fern%C3%A1ndez-2a2975364/)
-📧 josuelizfer@gmail.com
+
+📧 Email: josuelizfer@gmail.com
