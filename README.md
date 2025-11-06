@@ -41,7 +41,11 @@ I thrive on daily learning and building solutions that make an impact. My curren
 - Real-time object detection and tracking  
 - Statistical reporting dashboard  
 - Voice-command navigation interface  
-- **Tech Stack**: Laravel, PHP, Python, YOLOv8, Web Speech API  
+- **Tech Stack**: Laravel, PHP, Python, YOLOv8, Web Speech API
+
+## 🏆 Certifications
+### SQL (Basic) - HackerRank
+[![HackerRank SQL Basic](https://www.hackerrank.com/certificates/iframe/d3f983462bf4)]
 
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josue_Lizarazu-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josue-lizfer-lizarazu-fern%C3%A1ndez-2a2975364/)
