@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./assets/banner1.jpg" width="100%" height="225px"/>
+</p>
 
 # 👋 Hey! I'm Josue Lizarazu
 
