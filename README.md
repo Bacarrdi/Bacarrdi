@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.jpg" width="100%"/>
+</p>
+
 # 👋 Hey! I'm Josue Lizarazu
 
 **20-year-old passionate Systems Engineering student** | **Problem Solver** | **Tech Enthusiast**
