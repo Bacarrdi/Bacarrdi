@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Josue Lizarazu
 
-**19-year-old passionate Systems Engineering student** | **Problem Solver** | **Tech Enthusiast**
+**20-year-old passionate Systems Engineering student** | **Problem Solver** | **Tech Enthusiast**
 
 I thrive on daily learning and building solutions that make an impact. My current focus areas:
 - 🌐 Web Development
