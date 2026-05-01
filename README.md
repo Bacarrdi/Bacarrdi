@@ -11,7 +11,8 @@ I thrive on daily learning and building solutions that make an impact. My curren
 - 👁️ Computer Vision
 - 👕 Building a clothing brand from scratch (my ultimate dream!)
 
-## 🧑‍💻 About Me
+<h1 align="center" > About Me </h1>
+
 - 🏡 Born and raised in Cochabamba, Bolivia
 - 🎓 Pursuing Systems Engineering at Universidad Mayor de San Simón
 - 🔥 Currently mastering: DevOps, Linux, Blockchain, Web Dev & Software Architecture
