@@ -1,21 +1,32 @@
 <p align="center">
-  <img src="./assets/banner1.jpg" width="100%" height="225px"/>
+  <img src="./assets/banner1.jpg" width="100%"/>
 </p>
 
-# 👋 Hey! I'm Josue Lizarazu
+<h1 align="center">Hey! I'm Josue Lizarazu</h1>
 
-**20-year-old passionate Systems Engineering student** | **Problem Solver** | **Tech Enthusiast**
+<img align="left" src="./assets/typeshit.jpg" width="215px" />
 
-I thrive on daily learning and building solutions that make an impact. My current focus areas:
-- 🌐 Web Development
-- 👁️ Computer Vision
-- 👕 Building a clothing brand from scratch (my ultimate dream!)
+<h3>Systems Engineering Student | Problem Solver | Tech Enthusiast</h3>
 
-<h1 align="center" > About Me </h1>
+<p>
+  I'm a passionate Systems Engineering student fueled by curiosity,
+  problem solving, and a love for building things that actually work.
+</p>
+
+<p><strong>Currently focused on:</strong></p>
+
+🌐 Web Development  
+👁️ Artificial Intelligence  
+🛡️ Cybersecurity  
+👕 Clothing Brand  
+
+<br clear="left"/>
+
+<h1 align="center">About Me</h1>
 
 - 🏡 Born and raised in Cochabamba, Bolivia
 - 🎓 Pursuing Systems Engineering at Universidad Mayor de San Simón
-- 🔥 Currently mastering: DevOps, Linux, Blockchain, Web Dev & Software Architecture
+- 🔥 Currently mastering: DevOps, Linux, Blockchain, Web Dev & CyberSecurity
 - 🤝 Team player who loves collaborative projects and knowledge sharing
 - 🗣️ Fluent in English and Spanish
 
