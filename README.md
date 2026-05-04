@@ -12,15 +12,12 @@
 
 <img align="left" src="./assets/github-stickers/monkeychill.png" width="255px" />
 
-<p>
-  Passionate Systems Engineering student fueled by curiosity,
-  problem solving, and a love for building things that actually work.
-</p>
+**Passionate Systems Engineering student fueled by curiosity, problem solving, and a love for building things that actually work.**
 
 <p><strong>Currently focused on:</strong></p>
 
 🌐 Web Development  
-👁️ Artificial Intelligence  
+🤖 Artificial Intelligence  
 🛡️ Cybersecurity  
 👕 Clothing Brand  
 
@@ -30,7 +27,7 @@
 
 <h1 align="center">About Me</h1>
 
-<img align="right" src="./assets/cbba.jpeg" width="140px" />
+<img align="right" src="./assets/github-stickers/chilling.png" width="260px" />
 
 - 🏡 Born and raised in Cochabamba, Bolivia
 - 🎓 Pursuing Systems Engineering at Universidad Mayor de San Simón
@@ -74,21 +71,6 @@
   <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge&logo=opencv&logoColor=white" height="30" />
 </div>
 
-###
-
-<h1 align="center">Let's Connect</h1>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/josue-lizfer-lizarazu-fern%C3%A1ndez-2a2975364/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:josuelizfer@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Bacarrdi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
-  </a>
-</div>
 
 ###
 
@@ -111,7 +93,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Bacarrdi&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
 </p>
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bacarrdi/Bacarrdi/output/pacman-contribution-graph-dark.svg">
