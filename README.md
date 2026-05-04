@@ -10,7 +10,7 @@
 
 </div>
 
-<img align="left" src="./assets/github-stickers/monkeychill.png" width="255px" />
+<img align="left" src="./assets/github-stickers/monkeychill.png" width="270px" />
 
 ---
 
