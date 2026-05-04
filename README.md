@@ -10,7 +10,7 @@
 
 </div>
 
-<img align="left" src="./assets/github-stickers/monkeychill.png" width="180px" />
+<img align="left" src="./assets/github-stickers/monkeychill.png" width="310px" />
 
 <h3>Systems Engineering Student | Problem Solver | Tech Enthusiast</h3>
 
