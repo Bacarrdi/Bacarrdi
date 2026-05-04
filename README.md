@@ -60,3 +60,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bacarrdi&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<h1 align="center">🏆 GitHub Trophies</h1>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bacarrdi&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
+</p>
