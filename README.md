@@ -10,12 +10,10 @@
 
 </div>
 
-<img align="left" src="./assets/github-stickers/monkeychill.png" width="310px" />
-
-<h3>Systems Engineering Student | Problem Solver | Tech Enthusiast</h3>
+<img align="left" src="./assets/github-stickers/monkeychill.png" width="255px" />
 
 <p>
-  I'm a passionate Systems Engineering student fueled by curiosity,
+  Passionate Systems Engineering student fueled by curiosity,
   problem solving, and a love for building things that actually work.
 </p>
 
