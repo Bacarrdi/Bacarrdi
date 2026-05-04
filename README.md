@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,40:5f0000,80:ff0000,100:ff4d00&text=Hey!%20I'm%20Josue%20Lizarazu&fontColor=ffffff&fontSize=42&animation=twinkling&fontAlignY=38" width="100%" />
 </p>
 
-<img align="left" src="./assets/typeshit.jpg" width="215px" />
+<img align="left" src="./assets/github-stickers/me.png" width="215px" />
 
 <h3>Systems Engineering Student | Problem Solver | Tech Enthusiast</h3>
 
