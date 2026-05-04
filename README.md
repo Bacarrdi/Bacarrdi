@@ -1,6 +1,14 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,40:5f0000,80:ff0000,100:ff4d00&text=Hey!%20I'm%20Josue%20Lizarazu&fontColor=ffffff&fontSize=42&animation=twinkling&fontAlignY=38" width="100%" />
-</p>
+<div align="center">
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&size=30&duration=1&pause=999999&color=FF0000&center=true&vCenter=true&repeat=false&width=900&lines=Hey!+I'm+Josue+Lizarazu" alt="Josue Lizarazu" />
+  </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&size=35&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Systems+Engineering+Student;Turning+late+nights+into+real+projects." alt="Typing SVG" />
+  </p>
+
+</div>
 
 <img align="left" src="./assets/github-stickers/me.png" width="215px" />
 
