@@ -12,6 +12,8 @@
 
 <img align="left" src="./assets/github-stickers/monkeychill.png" width="255px" />
 
+---
+
 **Passionate Systems Engineering student fueled by curiosity, problem solving, and a love for building things that actually work.**
 
 <p><strong>Currently focused on:</strong></p>
@@ -79,9 +81,6 @@
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Bacarrdi&theme=midnight-purple&hide_border=true&fire=DD2727" height="180" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bacarrdi&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
   </a>
 </div>
 
