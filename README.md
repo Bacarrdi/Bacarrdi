@@ -10,9 +10,12 @@
 
 </div>
 
-<img align="left" src="./assets/github-stickers/monkeychill.png" width="270px" />
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8B0000,100:000000&height=3&section=footer" width="100%" />
+</p>
+
+<img align="left" src="./assets/github-stickers/monkeychill.png" width="260px" />
 
 **Passionate Systems Engineering student fueled by curiosity, problem solving, and a love for building things that actually work.**
 
@@ -25,7 +28,6 @@
 
 <br clear="left"/>
 
-###
 
 <h1 align="center">About Me</h1>
 
@@ -82,6 +84,9 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Bacarrdi&theme=midnight-purple&hide_border=true&fire=DD2727" height="180" alt="GitHub Streak" />
   </a>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bacarrdi&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile views" />
+</p>
 </div>
 
 ###
@@ -91,6 +96,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bacarrdi&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
 </p>
+
 
 ---
 
