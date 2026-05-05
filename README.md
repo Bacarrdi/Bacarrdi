@@ -10,12 +10,9 @@
 
 </div>
 
+<img align="left" src="./assets/github-stickers/monkeychill.png" width="270px" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8B0000,100:000000&height=3&section=footer" width="100%" />
-</p>
-
-<img align="left" src="./assets/github-stickers/monkeychill.png" width="260px" />
+---
 
 **Passionate Systems Engineering student fueled by curiosity, problem solving, and a love for building things that actually work.**
 
