@@ -18,25 +18,12 @@
 
 <p><strong>Currently focused on:</strong></p>
 
-🌐 Web Development  
 🤖 Artificial Intelligence  
-🛡️ Cybersecurity  
-👕 Clothing Brand  
+🛡️ Cybersecurity    
 
 <br clear="left"/>
 
 
-<h1 align="center">About Me</h1>
-
-<img align="right" src="./assets/github-stickers/chilling.png" width="260px" />
-
-- 🏡 Born and raised in Cochabamba, Bolivia
-- 🎓 Pursuing Systems Engineering at Universidad Mayor de San Simón
-- 🔥 Currently mastering: DevOps, Linux, Blockchain, Web Dev & CyberSecurity
-- 🤝 Team player who loves collaborative projects and knowledge sharing
-- 🗣️ Fluent in English and Spanish
-
-<br clear="right"/>
 
 ###
 
@@ -47,7 +34,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" />
   <img width="12" />
@@ -55,22 +42,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge&logo=opencv&logoColor=white" height="30" />
-</div>
 
 
 ###
@@ -81,18 +56,9 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Bacarrdi&theme=midnight-purple&hide_border=true&fire=DD2727" height="180" alt="GitHub Streak" />
   </a>
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bacarrdi&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile views" />
-</p>
 </div>
 
 ###
-
-<h1 align="center">GitHub Trophies</h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bacarrdi&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
-</p>
 
 
 ---
