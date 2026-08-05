@@ -23,8 +23,6 @@
 
 <br clear="left"/>
 
-
-
 ###
 
 <h1 align="center">Tech Stack</h1>
@@ -47,16 +45,6 @@
 
 <br>
 
-
-###
-
-<h1 align="center">GitHub Stats</h1>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Bacarrdi&theme=midnight-purple&hide_border=true&fire=DD2727" height="180" alt="GitHub Streak" />
-  </a>
-</div>
 
 ###
 
